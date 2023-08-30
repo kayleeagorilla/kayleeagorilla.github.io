@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Learning How to Swim Again"
 # All dates must be YYYY-MM-DD format!
-date: 2023-82-29
+date: 2023-08-29
 published: true
 labels:
   - JavaScript
