@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Image_Editor.png
+image: img/Cropped_Image.png
 title: "Rock-Paper-Scissors"
 date: 2022-03-06
 published: true
