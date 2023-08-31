@@ -4,7 +4,7 @@ type: project
 image: img/Image_Editor.png
 title: "Rock-Paper-Scissors"
 date: 2022-03-06
-published: false
+published: true
 labels:
   - Java
   - Single-Player Game
