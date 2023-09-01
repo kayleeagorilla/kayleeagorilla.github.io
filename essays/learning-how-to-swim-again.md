@@ -6,9 +6,9 @@ title: "Learning How to Swim Again"
 date: 2023-08-29
 published: true
 labels:
-  - Software Engineering
-  - Learning
   - JavaScript
+  - Athletic Software Engineering
+  - Software Engineering
 ---
 In the midst of the ‘Back to School’ chaos, learning a whole new coding language, JavaScript is the cherry on top of it all. So far everything is going well, aside from the sleepless nights and new white hairs I have acquired. I do enjoy coding in JavaScript, it is a much easier coding experience compared to Java, C, and C++. The way I see JavaScript is a glorified, more refined, Java 2.0. 
 
