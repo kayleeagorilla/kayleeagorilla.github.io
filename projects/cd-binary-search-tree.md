@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/Image_Editor (1).png
 title: "CD Binary Search Tree"
 date: 2022-04-10
 published: true
