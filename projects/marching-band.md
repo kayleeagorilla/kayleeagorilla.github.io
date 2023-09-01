@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IMG_3639.png
+image: img/marchingCropped_Image (1).png
 title: "Kapolei Marching Band"
 date: 2021
 published: true
@@ -10,6 +10,11 @@ labels:
   - Music
 summary: "I participated in my high school marching band during 2017-2021."
 ---
+<div class="text-center p-4">
+  <img width="400px" src="../img/1marchingIMG_3638.png" class="img-thumbnail" >
+  <img width="400px" src="../img/2marchingIMG_3637.png" class="img-thumbnail" >
+  <img width="400px" src="../img/3marchingIMG_3636.png" class="img-thumbnail" >
+</div>
 
 Throughout my years attending Kapolei High School, I was a part of the Kapolei Marching Band. All four years, from 2017 to 2021, I played the Alto Saxophone and was part of the saxophone section which included students who played Alto Saxophones and Tenor Saxophones. In some bands they even have a Baritone Saxophone which is the largest and lowest pitch saxophone, unfortunately, our band did not have anyone who played. Each year we would perform a different show which consists of a different theme, music, and choreography. During my time in high school, the shows that I participated in were: 
 
