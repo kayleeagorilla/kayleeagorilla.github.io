@@ -6,7 +6,7 @@ title: "Learning How to Swim Again"
 date: 2023-08-29
 published: true
 labels:
-  - JavaScript
+  - Javascript
   - Athletic Software Engineering
   - Software Engineering
 ---
