@@ -9,6 +9,7 @@ labels:
   - Java
 summary: "A binary search tree containing a collection of CDs in Java"
 ---
+<img class="img-fluid" src="../img/Cropped_Image.png">
 
 This CD binary search tree was one of the many projects I did during my time in ICS 211 at Leeward Community College. The project took most of the material from the course and compiled it into one project. Some of the things that were used were objects, constructors, nodes, both overloaded and recursive methods, classes, and different binary tree traversals.
 
