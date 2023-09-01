@@ -18,9 +18,13 @@ summary: "I participated in my high school marching band during 2017-2021."
 
 Throughout my years attending Kapolei High School, I was a part of the Kapolei Marching Band. All four years, from 2017 to 2021, I played the Alto Saxophone and was part of the saxophone section which included students who played Alto Saxophones and Tenor Saxophones. In some bands they even have a Baritone Saxophone which is the largest and lowest pitch saxophone, unfortunately, our band did not have anyone who played. Each year we would perform a different show which consists of a different theme, music, and choreography. During my time in high school, the shows that I participated in were: 
 
+
 Journey To The Moon (2017)
+
 Everest (2018)
+
 What If? (2019)
+
 
 We would compete with other high school marching bands and perform at different campuses, even the Aloha Stadium and at UH Manoa.
 
