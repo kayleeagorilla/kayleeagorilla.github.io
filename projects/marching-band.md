@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Cropped_Image2.png
+image: img/IMG_3639.png
 title: "Kapolei Marching Band"
 date: 2021
 published: true
