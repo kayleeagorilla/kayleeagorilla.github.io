@@ -10,7 +10,7 @@ labels:
   - Single-Player Game
 summary: "A User vs. Computer-based game that implements an interactive GUI using Java."
 ---
-<img width="700px" class="rounded float-start pe-4" src="../img/Image_Editor.png">
+<img width="900px" class="rounded float-start pe-4" src="../img/Image_Editor.png">
 
 During my time in ICS 211 at Leeward Community College, I created an interactive game called Rock-Paper-Scissors which implements a GUI using Java. GUI stands for Graphical User Interface, in other words, once you run the code, a separate window opens up with the interactive game. My Rock-Paper-Scissors game featured a user vs. computer play style meaning that you will go up against the computer and it even kept track of the score. 
 
