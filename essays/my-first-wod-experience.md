@@ -10,13 +10,13 @@ labels:
   - Software Engineering
   - Learning
 ---
-## What did you learn when preparing and performing the WOD? What could you do to improve your performance for the next WOD? 
-
 Although I prepared every day leading up to the first WOD, I was left shaking from all the adrenaline after I finished in Rx time. In those days leading up, I did every practice WOD that was given to us over and over. The practice WODs were very beneficial since they gave me a sense of what to expect on the actual WOD. For example, many of the practice WODs consisted of functions, for-loops, if-statements, arrays, and objects. Even one of the practice WODs had a for-of-loop that I was unfamiliar with until I completed the problem. 
 
-For me to improve my performance for the next WOD, I want to go over more syntax for Javascript in case something new pops up that wasn’t on the practice WODs. What I’ve started to do recently is go back to FreeCodeCamp and do the exercises that I’m not familiar with. Like creating classes, constructors, and methods.
+## Was the experience valuable? What could you do to improve your performance for the next WOD?
 
-The experience was valuable to me. It took all the practice WODs and compiled them into one WOD. The actual WOD was like a test for our skills and knowledge. It helped me solidify the materials and gain more problem-solving skills for future projects and even the real world. 
+The experience was valuable to me. It took all the practice WODs and compiled them into one WOD. The actual WOD was like a test for our skills and knowledge. It helped me solidify the materials and gain more problem-solving skills for future projects and even the real world. Seeing my hard work and practicing everyday payoff, gave me a better understanding of what it is like to be an Athletic Software Engineer.
+
+For me to improve my performance for the next WOD, I want to go over more syntax for Javascript in case something new pops up that wasn’t on the practice WODs. What I’ve started to do recently is go back to FreeCodeCamp and do the exercises that I’m not familiar with. Like creating classes, constructors, and methods.
 
 ##  How did I implement the function compared to what was discussed after the WOD?
 
