@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "That Wasn't So Bad, Was It?"
+title: "That wasn't so bad, was it?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-04
 published: true
