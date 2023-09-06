@@ -14,8 +14,10 @@
     ]
   },
   "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Computer Science" },
+    { "name": "Networking" },
     { "name": "Video Games" },
-    { "name": "Programming" },
     { "name": "Music" }
   ],
   "skills": [
