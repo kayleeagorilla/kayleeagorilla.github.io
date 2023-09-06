@@ -11,11 +11,11 @@ labels:
   - StackOverflow
 ---
 
-Being a programmer, we have all the resources and answers at our fingertips. If you have a question, chances are, the internet has an answer. The internet allows us to look up our questions, provide articles and manuals, YouTube tutorial videos, and even ask others for help. But when it comes to asking others for help, everyone has their hand up and there is only a handful of users who can help. Some programmers choose to take shortcuts and the easy way, asking simple questions, also known as “dumb” questions, that have answers that are easily accessible. This is where getting users' attention and asking a “smart” question gives you a greater advantage and increases your chances of getting help and soon your answer. 
+Being a programmer, we have all the resources and answers at our fingertips. If you have a question, chances are, the internet has an answer. The internet allows us to look up our questions, read articles and manuals, watch YouTube tutorial videos, and even ask others for help. But when it comes to asking others for help, everyone has their hand up and there is only a handful of users who can help. Some programmers choose to take shortcuts and the easy way, asking simple questions, also known as “dumb” questions, that have answers that are easily accessible. This is where getting users' attention and asking a “smart” question gives you a greater advantage and increases your chances of getting help and soon your answer. 
 
 ## What makes a question “dumb”?
 
-“Dumb” question is a question that you can easily ask Siri or Alexa for the answer. In other words, the answer is right in front of you. Either after doing a quick Google search, reading articles or manuals, going back to your notes, or watching a 2-minute YouTube video. Asking these types of questions in a forum, or StackOverflow in this case, does not get answers right away or at all because they are considered a waste of time. If you ask a “dumb” question, you are basically telling someone else to do your work. 
+A “Dumb” question is something that you can easily ask Siri or Alexa for the answer. In other words, the answer is right in front of you. Either after doing a quick Google search, reading articles or manuals, going back to your notes, or watching a 2-minute YouTube video. Asking these types of questions in a forum, or StackOverflow in this case, does not get answers right away or at all because they are considered a waste of time. If you ask a “dumb” question, you are basically telling someone else to do your work. 
 
 ## What a “dumb” question looks like:
 
