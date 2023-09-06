@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Learning How to Swim Again"
+title: "Learning how to swim again"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
 published: true
