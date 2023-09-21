@@ -26,7 +26,7 @@ One suggestion that I had for the professors and TAs that create these WODS, is 
 ## What I’ve been doing
 I’ve done some experimenting and found that when working on a practice WOD, I would create a new repository and with each attempt, I would create a branch and not push it to the main branch. This is because I like to practice WODs more than once even after I have a good time, I like to try different methods and functions. Making a branch each time allows me to look back on my previous work and progress, and how much faster I finish each attempt. The reason why I don’t push my code into the main branch is because I like to keep the main branch almost like a template or fresh slate so that I don’t have to make a whole new repository and go through that long process of cloning, etc. 
 
-## "No thanks CoPilot"
+## "No thank you, CoPilot."
 IntelliJ does allow us to use CoPilot but I prefer to disable it to test my skills and really solve the WODs on my own. When I did try CoPilot, it was great at finishing a line or two but afterward, it would get messy since CoPilot doesn’t really know what it is trying to do unless you give it an example output. CoPilot has just made me more overwhelmed and wasted even more time trying to solve simple problems so I turned it off altogether. 
 
 ## Life is good!
