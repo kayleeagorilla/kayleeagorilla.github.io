@@ -18,7 +18,9 @@ The first few days using IntelliJ and ESLint were a disaster. Since IntelliJ is 
 
 ## The struggle was worth it
 After some time getting used to a whole new environment, I was able to get the hang of it. I found it very helpful to make a [template](https://github.com/kayleeagorilla/intellij-wod-template) with an already-made HTML file and JS file along with all the files needed for ESLint. All I had to do was make a new repository from the template, clone it, and rename the JS file and the scripts in the HTML file. I even made the template public on my GitHub page so that my friends and fellow students could use the template if needed or get inspiration to make their own template. With this method, I was able to save some time or instead use it towards working on my code and refining it. To save even more time, ESLint is able to fix any errors in the JS file so that I don’t need to waste time nit-picking through lines of code just to find that I forgot a semicolon or misspelled something.  
+
 Sadly, all good things come to an end because recently I got some news from my Professor for my ICS 314 class that using a template will not do us any good down the line since many of the files may change. I still find it handy to have a template, at least with an HTML and JS file made and ready to code. 
+
 One suggestion that I had for the professors and TAs that create these WODS, is that they should put these files into a folder so that the students just have to press download once. But what do I know since I don’t know what’s to come? 
 
 ## What I’ve been doing
