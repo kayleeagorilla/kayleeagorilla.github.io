@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Is Bootstrap a Waste of Time?"
+title: "Is Bootstrap a waste of time?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-04
 published: true
