@@ -12,11 +12,9 @@ labels:
 
 ## Overview
 
-(problem)
 Whenever University of Hawaii users face a tech-related problem, they visit the UH Information Technology Service (ITS) AskUs page. Here, users can enter their questions and be presented with a list of results. The problem with this search method is that the website returns results only containing keywords that are found in your question. This makes finding an answer a hassle since users are expected to go through possibly over a hundred posts. Users are also expected to be precise with their questions, leaving no room for any errors. For example, when faced with a wifi-related problem, users who spell wifi like ‘wi-fi’ will be presented with no results.
 
-(solution)
-The solution that our team strives to achieve is to make a user-friendly chatbot that uses A.I. to help users find an answer to their questions quickly and with no effort needed. Users will be able to ask their questions through a conversation with the chatbot.
+The solution that our team strives to achieve is to make a user-friendly chatbot that uses A.I. to help users find an answer to their questions quickly and with no effort needed. Users will be able to ask their questions through a conversation with the chatbot. We also aim to revamp the ITS AskUs page by giving it a modern and updated look.
 
 ## Mockup page ideas
 
