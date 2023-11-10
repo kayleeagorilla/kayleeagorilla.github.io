@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "Meteor", "Bootstrap", "React" ]
     }
   ],
   "education": [
@@ -32,18 +32,14 @@
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "2023",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "endDate": "Present"
     },
     {
       "institution": "Leeward Community College, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "A.S.",
       "startDate": "2021",
-      "endDate": "2023",
-      "courses": [
-      ]
+      "endDate": "2023"
     }
   ],
   "awards": [
