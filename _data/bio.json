@@ -23,7 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "Meteor", "Bootstrap", "React" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "Node.js", "React.js", "BootStrap", "Meteor" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Git/GitHub", "IntelliJ", "MacOS", "Windows" ]
     }
   ],
   "education": [
@@ -47,13 +51,19 @@
       "title": "Dean's List",
       "date": "2023",
       "awarder": "Leeward Community College",
-      "summary": "Awared to students who have a cumulative GPA of 3.8 or higher."
+      "summary": "Awarded to students who have a cumulative GPA of 3.8 or higher."
     },
     {
       "title": "Transfer Merit Scholarship",
-      "date": "2023",
+      "date": "2023 - Present",
       "awarder": "University of Hawaii",
-      "summary": "Awared to UH System Community College students that plan on transferring to UH Manoa who have a minimum GPA of 3.3 and at least 24 transferable credits. The scholarship is worth $2,000/year."
+      "summary": "Awarded to UH System Community College students that plan on transferring to UH Manoa who have a minimum GPA of 3.3 and at least 24 transferable credits. The scholarship is worth $2,000/year."
+    },
+    {
+      "title": "2nd Place Coded Solution",
+      "date": "2023",
+      "awarder": "Hawaii Annual Code Challenge",
+      "summary": "Was a part of Team DarkMode and got awarded $2,000. Created a web application that has an A.I. chatbot assistant which allow users to ask questions relating to UH ITS."
     }
   ],
   "references": [
