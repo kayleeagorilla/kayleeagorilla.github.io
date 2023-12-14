@@ -18,7 +18,7 @@ summary: "Hoku is an A.I. chatbot assistant programmed to answer questions relat
 <div class="row text-center p-4">
   <img src="../img/HACC-with-Flag-final-1.png" >
 </div>
-<div class="row text-center p-4">
+<div class="row text-center p-2">
   <img width="400px" src="../img/team-darkmode.JPG" class="img-thumbnail" >
   <img  width="400px" src="../img/ui.png" class="img-thumbnail" >
 </div>
@@ -29,7 +29,7 @@ summary: "Hoku is an A.I. chatbot assistant programmed to answer questions relat
 Ask Hoku is a web application that my team and I created for the 2023 Hawaii Annual Code Challenge ([HACC](https://hacc.hawaii.gov/)). I was a part of Team DarkMode which consisted of 3 members, [Micah Tilton](https://micahtilton.github.io/) as the Team Captain, [Malisa Lo](https://malisalo.github.io/), and me. Our team got the opportunity to create an A.I. chatbot assistant called Hoku that will answer questions relating to ITS. We even secured 2nd Place for the Coded Solutions category and was awarded $2,000, click [here](https://www.hawaii.edu/news/2023/11/28/hawaii-annual-code-challenge-2023/#:~:text=DarkMode%2C%20led%20by,a%20%242%2C000%20prize.) to read more about it!
 
 <div class="text-center p-4">
-  <img width="700px" src="../img/manoa-ics-project-day.jpg" class="img-thumbnail" >
+  <img width="550px" src="../img/manoa-ics-project-day.jpg" class="img-thumbnail" >
   <img width="400px" src="../img/poster.JPG" class="img-thumbnail" >
   <img width="400px" src="../img/award.JPG" class="img-thumbnail" >
 </div>
