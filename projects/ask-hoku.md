@@ -15,12 +15,12 @@ summary: "Hoku is an A.I. chatbot assistant programmed to answer questions relat
 ---
 
 <div class="text-center p-4">
-  <img width="700px" src="../img/HACC-with-Flag-final-1.png" >
+  <img width="900px" src="../img/HACC-with-Flag-final-1.png" >
 </div>
 
 <div class="text-center p-2">
     <img width="600px" src="../img/team-darkmode.JPG" class="img-thumbnail" >
-    <img  width="600px" src="../img/ui.png" class="img-thumbnail" >
+    <img  width="700px" src="../img/ui.png" class="img-thumbnail" >
 </div>
 
 # Overview
