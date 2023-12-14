@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Image_Editor (1).png
+image: img/ui.png
 title: "Ask Hoku - UH ITS AskUs Chatbot"
 date: 2023
 published: true
@@ -20,7 +20,7 @@ summary: "Hoku is an A.I. chatbot assistant programmed to answer questions relat
 </div>
 <div class="row text-center p-4">
   <img width="400px" src="../img/team-darkmode.JPG" class="img-thumbnail" >
-  <img  width="650px" src="../img/ui.png" class="img-thumbnail" >
+  <img  width="400px" src="../img/ui.png" class="img-thumbnail" >
 </div>
 </div>
 
@@ -29,25 +29,12 @@ summary: "Hoku is an A.I. chatbot assistant programmed to answer questions relat
 Ask Hoku is a web application that my team and I created for the 2023 Hawaii Annual Code Challenge ([HACC](https://hacc.hawaii.gov/)). I was a part of Team DarkMode which consisted of 3 members, [Micah Tilton](https://micahtilton.github.io/) as the Team Captain, [Malisa Lo](https://malisalo.github.io/), and me. Our team got the opportunity to create an A.I. chatbot assistant called Hoku that will answer questions relating to ITS. We even secured 2nd Place for the Coded Solutions category and was awarded $2,000, click [here](https://www.hawaii.edu/news/2023/11/28/hawaii-annual-code-challenge-2023/#:~:text=DarkMode%2C%20led%20by,a%20%242%2C000%20prize.) to read more about it!
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/manoa-ics-project-day.jpg" class="img-thumbnail" >
+  <img width="700px" src="../img/manoa-ics-project-day.jpg" class="img-thumbnail" >
   <img width="400px" src="../img/poster.JPG" class="img-thumbnail" >
   <img width="400px" src="../img/award.JPG" class="img-thumbnail" >
 </div>
 
 In addition, we got invited to present our project at [Project Day 2023](https://www.hawaii.edu/news/2023/12/07/ics-project-day-fall-2023/), hosted by the University of Hawaii at Manoa’s [Information and Computer Sciences Department](https://www.ics.hawaii.edu/) (ICS). There we got awarded a Certificate of Recognition for getting 2nd place.
-
-### Links
-
-#### Project and Repo
-
-- [GitHub Organization](https://github.com/darkmode-askus)
-- [GitHub Pages](https://darkmode-askus.github.io/)
-- [Deployed Application](http://143.198.151.26/)
-
-#### HACC 2023
-- [HACC 2023 Presentation Video](https://youtu.be/YGB417pRVLg?si=vuYYmN8cOgmW6236&t=4429)
-- [2nd Place Announcement](https://youtu.be/YGB417pRVLg?si=vuYYmN8cOgmW6236&t=4429)
-- [Official HACC 2023 Press Release](https://hacc.hawaii.gov/wp-content/uploads/2023/11/PRESS-RELEASE-Students-Earn-Recognition-at-8th-Annual-Hawaii-Code-Challenge.pdf)
 
 # Proposed Challenge
 The challenge that was proposed was to create an application that provides a conversational A.I. that supports a flexible and intuitive conversational search function to identify and retrieve relevant Ask Us articles and information. The current UH ITS AskUs webpage has an outdated search system which makes it difficult for users to find the answers that they are looking for. Simple searches like “How do I connect to the wifi?”, gives out a list of articles for the user to look through. This can be very time consuming for users to use just to find an answer to a simple question. Because of the non-user friendly design of the current ITS website, many users go to a Help Desk assistant instead of using the current Ask Us search bar. 
@@ -67,3 +54,22 @@ Being someone who is completely new to web development and having to learn along
 ## Improvements for the Future
 
 Now that I know how web development works and how to use these tools, I feel more confident making a new project or competing in future hackathons. One that I do plan on doing next time is creating a set plan and schedule for better project management. It was something that we overlooked and struggled to manage our project at the start. But overall, I am proud of this project and what my team and I were able to accomplish in such a short amount of time. I look forward to working with them and seeing the rest of you in next year's HACC!
+
+# Links for More Information
+
+## News Releases
+
+- [UH News](https://www.hawaii.edu/news/2023/11/28/hawaii-annual-code-challenge-2023/)
+- [HACC](https://hacc.hawaii.gov/main/2023-hawaii-annual-code-challenge-winners-are/)
+- [Official Press Release](https://hacc.hawaii.gov/wp-content/uploads/2023/11/PRESS-RELEASE-Students-Earn-Recognition-at-8th-Annual-Hawaii-Code-Challenge.pdf)
+- [Project Day Fall 2023](https://www.hawaii.edu/news/2023/12/07/ics-project-day-fall-2023/)
+
+## Project and Repo
+
+- [GitHub Organization](https://github.com/darkmode-askus)
+- [GitHub Pages](https://darkmode-askus.github.io/)
+- [Demo](http://143.198.151.26/)
+
+## HACC 2023 Videos
+- [HACC 2023 Presentation Video](https://youtu.be/YGB417pRVLg?si=vuYYmN8cOgmW6236&t=4429)
+- [2nd Place Announcement](https://youtu.be/YGB417pRVLg?si=vuYYmN8cOgmW6236&t=4429)
