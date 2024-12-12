@@ -5,5 +5,3 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 .idea
-/shelf/
-/workspace.xml
