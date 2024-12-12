@@ -21,8 +21,8 @@ We all didn't know each other so the first week was mainly us breaking the ice, 
 
 # Consistency and Communication are key
 
-a
+One of the regrets I had while working on this project was not contributing as much as I wanted to. This was because of many unexpected events in my personal life occurred throughout the semester. This made it difficult for me to be consistent but luckily after talking to my team, they were understanding and let me take a step away from the project in order for me to take care of myself and my family. I of course did what I could and I am still proud of the work that our team accomplished despite of all the challenges we faced.
 
 # My Takeaways
 
-It was a great experience because I got to see how a real-world project is developed and how different people work together to achieve a common goal.
+This semester and course was a great experience! I got to see how a real-world project is developed and how different people can work together to achieve a common goal. I was able to benefit in many different ways after taking this course. I believe that anyone who wants to refine their software engineering skills and know what it's like to develop a web application for a customer should consider taking ICS 414. I'm also glad to have met my teammates and got to know them. Some of us have similar interests and got along well, so I wouldn't mind working with them again if we ever cross paths again in the future. I learned a lot about teamwork, communication, and how to work with people that I didn't know before. I am looking forward to the next semester and the new projects that I will be working on.
