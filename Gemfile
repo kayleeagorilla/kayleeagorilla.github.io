@@ -6,6 +6,7 @@ gem "jekyll", "~> 4.2.0"
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
+  gem "ffi", "< 1.17.0"
 end
 
 gem "webrick", "~> 1.7"
